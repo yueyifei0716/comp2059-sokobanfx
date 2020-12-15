@@ -1,0 +1,113 @@
+LevelName: Level-1
+PPPPPPPPPPPPPPDPPPPP
+P    W             P
+P CH W T           P
+P    w      WWWWWWWP
+P    PWWW  WWWWWWWWP
+P     G      WWWWWWP
+P    PWWWW   WWWWWWP
+P    WWWWWWWWWWWWWWP
+P    WWWWWWWWWWWWWWP
+P    WWWWWWWWWWWWWWP
+P    PWWWWWWWWWWWWWP
+P      K    WWWWWWWP
+P   M     WWWWWWWWWP
+PWUWWWP   WWWWWWWWWP
+PWWWWWW   WWWWWWWWWP
+PWWWWWW   WWWWWWWWWP
+PWWWWWW   WWWWWWWWWP
+PWWWWWW   WWWWWWWWWP
+PWWWWWW   SWWWWWWWWP
+PPPPPPPPPPPPPPPPPPPP
+
+
+LevelName: Level-2
+PPPPPPPPPPPPPPPPPPPP
+P    W             P
+P C  W C           P
+P C  w      WW WWWWP
+PT   WWWWWW W C   TP
+P      T           P
+P           W      P
+P           WWWWWWWP
+P           WWWWWWWP
+P           WWWWWWWP
+P           WWWWWWWP
+P      S    WWWWWWWP
+PW          WWWWWWWP
+PWW       WWW  WWWWP
+PWWW      W     WWWP
+PWWWW     WT    WWWP
+PWWWWW    WWWW WWWWP
+PWWWWWW            P
+PWWWWWWWWW         P
+PPPPPPPPPPPPPPPPPPPP
+
+
+LevelName: Level-3
+PPPPPPPPPPPPPPPPPPPP
+P    WWW  WWWWWWWWWP
+P                  P
+p    WWWW WWWWWWWW P
+P   CC    WWWWWWWW P
+P   CTT            P
+pWWWWTWWWWWWWWWWWW P
+P                  P
+p WWW W            P
+p W   W            P
+P    WW            p
+PW   WW            P
+PW   WW            P
+PW   WW            P
+PW   WW            P
+PW   WW            P
+pW WWWW            P
+P               SC P
+P   WWW           TP
+PPPPPPPPPPPPPPPPPPPP
+
+
+LevelName: Level-4
+PDPPPPPPPPPPPPPPPPPP
+P  WWWT            P
+P  WWWWW WWWWWWWW WP
+P     TW W       C P
+PW WWWWW W       C P
+PW    TW W         P
+PW  W  W W WWWWWW WP
+pWW W WW           P
+PWW W WW W WWWWWWWWP
+P     WW WWWT      P
+p  W  WW WWW       P
+pW WWWWW WWW       P
+pW WWWWW WWWW WWWWWP
+pW       S         P
+pW  WWWW           P
+pWWWW  W  WWWWWWCCWP
+pWWWW             WP
+pWWWW W         C WP
+pT      WWWWWWWWWWWP
+PPPUPPPPPPPPPPPPPPPP
+
+
+LevelName: Normal Mode
+PPPPPPPPPPPPPPPPPPPP
+pWWWWWWWWWWWWWWW   P
+pwwT       T      TP
+pwwww wcwwwww ww  wP
+pwwww  c wwww www wp
+p     w  wwww   w wp
+p wwwww wwwww w w wp
+p wwwww       w wcwp
+p wwwww wwwww w  c p
+pT            w    p
+pwwwwwwww www wwwwwp
+pwTwwwwwwTwww s    p
+p c       wwwwwwww p
+p cwwwwww wwwwww   p
+p  wwwwww www    wwp
+pw wwwwww  ww wwwwTp
+p  w      cTw      p
+p          c       p
+pwww  wwwww    wwwwp
+PPPPPPPPPPPPPPPPPPPP

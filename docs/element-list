@@ -1,0 +1,9 @@
+sokobanfx
+sokobanfx.business
+sokobanfx.controller
+sokobanfx.model
+sokobanfx.model.direction
+sokobanfx.state
+sokobanfx.util
+sokobanfx.view
+sokobanfx.view.strategy
